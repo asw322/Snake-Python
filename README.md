@@ -1,1 +1,1 @@
-Simple SNAKE game written in Snake
+Simple SNAKE game written in Python
